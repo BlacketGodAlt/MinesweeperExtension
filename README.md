@@ -1,2 +1,2 @@
 # MinesweeperExtension
-#The great extension that allows you to play Minesweeper in your browser!
+The great extension that allows you to play Minesweeper in your browser!
